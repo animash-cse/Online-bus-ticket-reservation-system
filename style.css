@@ -1,0 +1,125 @@
+.padding{padding:0px;}
+.addtowishlist_block{background: red;color: white;}
+ul{margin:0; padding:0; list-style: none;}
+ul:after{content:""; display: block; clear: both;}
+/*start header section */
+.container{max-width:960px;}
+.logo_section img{height: 99px;}
+.navbar-default{margin:0; padding:0; border:none; border:none; background: none;}
+.logo_section{float: left;}
+.right_site{float: right; padding-top:25px;}
+/*end header section */
+
+/*start benner sewction */
+.benner_bg {background: rgba(255, 255, 255, 0.75);padding-top: 34px;padding-left: 25px;padding-right: 27px;padding-bottom: 25px;}
+.benner_section{background:url('images/neeta-benz-multiaxle-1.jpg');background-repeat: no-repeat; background-size:cover;background-position: center; padding: 100px 0;}
+.benner_sectionverify{background:url('images/neeta-benz-multiaxle-1.jpg');background-repeat: no-repeat; background-size:cover;background-position: center; padding: 20px 0;}
+.benner_section:after{content:""; display: block; clear: both;}
+.padding_left{padding-left:0;}
+.padding_right{padding-right:0;}
+.right_site_benner{padding-top: 23px;}
+.right_site_benner img{width:100%;}
+.navbar-default .navbar-nav > li > a{font-size:16px;}
+/*end benner section */
+@media(max-width:768px){
+	.right_site{float: none;}
+}
+.footer_section{background: #fff;}
+.footer_inner{text-align: center; padding-top: 15px;}
+.verifiy_code{max-width:600px!important; display:inline-block;}
+
+.ticketbookingCompanyArea {
+    /*background: rgba(255, 255, 255, 0.75);*/
+    min-height: 600px;
+    /*background: #ddd;*/
+}
+.company_category{top: 10px; padding:0px;}
+.company_category h4{color: #00b7e4;}
+.company_category ul{ list-style: none; }
+.company_category ul li{ 
+    width: 100%;
+    padding: 5px 0px;
+    /*background: #eee; */
+    font-size: 16px;
+ }
+ .company_category ul li :hover{ 
+   color: #00b7e4;
+
+ }
+.ticketbookingArea {background: rgba(255, 255, 255, 0.75);min-height: 600px;}
+.ticketbooking_form{top: 30px; padding: 10px;}
+.ticketbook_section{background:url('images/Bus-Traveling-680x340.jpg');background-repeat: no-repeat; background-size:cover;background-position: center; padding: 10px 0;}
+.ticketbook{top: 50px; border: 1px solid gray; padding: 20px;}
+.ticketbook button:hover{
+    background: #00b7e4;color: #fff;
+}
+.driverset{
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+    /*border:2px solid gray;*/
+}
+.driverset img{
+    height: 50px;
+    width: 50px;
+    
+}
+/*Contacts page design =============================================*/
+
+#contact{
+    background-color:#f1f1f1;
+    font-family: 'Roboto', sans-serif;
+}
+
+#contact .well{
+    margin-top:30px;
+    border-radius:0;
+}
+
+#contact .form-control{
+    border-radius: 0;
+    border: 1px solid #e3e3e3;
+}
+
+#contact button{
+    border-radius:0;
+    border: 1px solid #e3e3e3;
+}
+
+#contact .row{
+    margin-bottom:30px;
+}
+
+@media (max-width: 768px) { 
+    #contact iframe {
+        margin-bottom: 15px;
+    }
+    
+}
+
+.input-box { position: relative; }
+
+input { display: block; border: 1px solid #d7d6d6; background: #fff; padding: 10px 10px 10px 20px; width: 195px; }
+
+.unit { position: absolute; display: block; left: 1px; top: 5px; z-index: 9; }
+
+
+
+
+/*Service design */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+}

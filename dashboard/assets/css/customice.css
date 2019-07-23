@@ -1,0 +1,109 @@
+.padding{
+	padding: 0px!important;
+}
+.contain_area{
+	min-height: 600px;
+	background: #fff;
+	margin-bottom: 50px;
+	/*margin-top: 50px;*/
+}
+
+.containerBg{
+	background: #fff;
+	box-shadow: 0px 0px 1px #ddd;
+}
+.well-lgc {
+ padding: 10px; 
+     border-radius: 6px; 
+}
+
+.wellc {
+    min-height: 10px;
+    padding: 8px 20px;
+    margin-bottom: 10px;
+    background-color: #f5f5f5;
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+}
+/*-------input type[type=number]--icon remove--*/
+.no-spin::-webkit-inner-spin-button, .no-spin::-webkit-outer-spin-button {
+    margin: 0 !important;
+    -moz-appearance:textfield !important;
+     -webkit-appearance: none !important;
+}
+.api-urltitle{
+    min-height: 80px;
+    line-height: 20px;
+    color: #e88b0d;
+    background: #f8f8f8;
+}
+.api-urltitle h3{
+  color: #e88b0d;
+}
+
+.api-urltitle-contain{
+    min-height: 60px;
+    margin-top: 10px;
+    background: #f2f2f2;
+}
+.api-urltitle-contain{
+    line-height: 60px;
+    font-size: 13px;
+    color: #2d8e67;
+}
+
+.api-urltitle-bottom{
+    min-height: 80px;
+    background: #f2f2f2;
+}
+/*-------dashboard home------*/
+.dashboard-leftBalance{
+    min-height: 150px;
+    background: #f8f8f8;
+    margin-bottom: 10px;
+    box-shadow: 0px .5px 1px gray;
+
+}
+.dashboard-leftBalance h3{
+  font-weight: bold;
+   font-size: 16px;
+
+}
+.dashboard-leftBalance ul{
+  list-style: none;
+     margin: 0px 0px;
+}
+
+.dashboard-leftBalance ul li{
+    padding-left:0px;
+    width: 100%;
+    height: 35px;
+    line-height: 35px;
+    font-size: 13px;
+    border-bottom: 1px solid #eee;
+}
+.btn-none-details{
+  text-decoration: none!important;
+  color: #088bfb;
+
+}
+.btn-none-edit{
+  text-decoration: none!important;
+  color: green;
+}
+
+.btn-none-delete{
+  text-decoration: none!important;
+  color: red;
+}
+/*container backgound color */
+.bg-container{
+  background: #f8f8f8;
+  padding-top: 20px!important;
+  padding-bottom: 10px;
+}
+.btn-none-download{
+ padding: 0px;border: none;background: none; color: #ff9a02;
+}
