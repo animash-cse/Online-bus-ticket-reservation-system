@@ -12,4 +12,4 @@
 #### Some Screenshots of this app
  Destination                                | Select your seats                           | After buy seats                         		                    
 :------------------------------------------:|:-------------------------------------------:|:-------------------------------------------:
- <img src="Project files/ticket.PNG" width="200"> | <img src="Project files/ticket1.PNG" width="200"> | <img src="Project files/ticket2.PNG" width="200"> 
+ <img src="Project files/ticket.PNG" width="300"> | <img src="Project files/ticket1.PNG" width="300"> | <img src="Project files/ticket2.PNG" width="300"> 
